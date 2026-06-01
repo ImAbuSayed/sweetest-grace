@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-grace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
+| **Get License** | [Official Music Licensing for Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2528)
 
 ---
 
