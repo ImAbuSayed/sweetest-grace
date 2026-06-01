@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-grace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
+| **Get License** | [Music Rights & Licensing for Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want your hands on me, drawing me closer now
+> A quiet gravity pulling me into your space
+> I want to feel the warmth of your skin somehow
+> Lost in the rhythm, lost in your sweetest grace
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
