@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetest-grace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
+| **Get License** | [Obtain a Music License for Sweetest Grace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetest-grace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a499ddb12aad87663868f68b5a87082cdee08f383999d686e3bad4dc26fb8543` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
